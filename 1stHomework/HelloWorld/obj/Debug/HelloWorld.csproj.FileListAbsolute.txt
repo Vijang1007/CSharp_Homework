@@ -1,0 +1,7 @@
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\bin\Debug\HelloWorld.exe
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\obj\Debug\HelloWorld.exe
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\HelloWorld\obj\Debug\HelloWorld.pdb
