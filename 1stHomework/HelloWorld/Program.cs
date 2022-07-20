@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,17 +11,20 @@ namespace HelloWorld
     {
         static void Main()
         {
-            string s1, s2;
-            System.Console.Write("input s1 :");
-            s1 = System.Console.ReadLine();
-            System.Console.Write("input s2 :");
-            s2 = System.Console.ReadLine();
-            System.Console.WriteLine($"the string is\n{s1}, {s2}");
-            System.Console.WriteLine("the string is\n{0}, {1}", s1, s2);
-            string message;
-            message = s1 + ", " + s2;
-            System.Console.WriteLine("the string is\n{0}", message);
-            System.Console.WriteLine($"the string is\n{message}");
+            string sA;
+            sA = ReadLine();
+
+            int nA;
+            nA = Convert.ToInt32(sA);
+            WriteLine(nA);
+
+            float fA;
+            fA = (float)nA;
+            WriteLine(fA);
+
+            sA = Convert.ToString(fA);
+            WriteLine(sA);
+
             System.Console.ReadKey();
         }
     }
