@@ -1,0 +1,7 @@
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\bin\Debug\BaseballGame.exe.config
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\bin\Debug\BaseballGame.exe
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\bin\Debug\BaseballGame.pdb
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\obj\Debug\BaseballGame.csproj.AssemblyReference.cache
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\obj\Debug\BaseballGame.csproj.CoreCompileInputs.cache
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\obj\Debug\BaseballGame.exe
+C:\C#(Visual Studid)\C#(GitHub)\CSharp_Homework\1stHomework\BaseballGame\obj\Debug\BaseballGame.pdb
